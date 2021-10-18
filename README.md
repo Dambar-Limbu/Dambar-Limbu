@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dambar-Limbu
-- 👀 I’m interested in learning new technologies  
-- 🌱 I’m currently learning python and bash scripting
+- 👀 I’m interested in learning new technologies and keen on learning coding.
+- 🌱 I’m currently learning python and bash scripting.
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me ...
 
